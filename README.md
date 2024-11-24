@@ -1,6 +1,6 @@
-# notes_app
+# words that i like app
 
-A new Flutter project.
+My first proyect in flutter from google colab [My first App](https://codelabs.developers.google.com/codelabs/flutter-codelab-first?hl=es-419#0)
 
 ## Getting Started
 
